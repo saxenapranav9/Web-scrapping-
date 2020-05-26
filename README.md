@@ -1,2 +1,2 @@
 # Web-scrapping-
-Webscrapping the data using Python
+Webscrapping the data from websites using Python
